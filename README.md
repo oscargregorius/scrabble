@@ -1,4 +1,3 @@
 # scrabble
 testing some shit.
-Tests if it works.
-Another test.
+Test if Ali can see this. 
